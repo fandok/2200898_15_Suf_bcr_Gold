@@ -1,0 +1,9 @@
+.navbar-brand {
+  width: 100px;
+  height: 34px;
+  background-color: var(--primary-color);
+}
+
+.navBackgroundColor {
+  background-color: var(--bg-color);
+}

@@ -1,0 +1,5 @@
+.section-list {
+  display: flex;
+  align-items: center;
+  gap: 19px;
+}

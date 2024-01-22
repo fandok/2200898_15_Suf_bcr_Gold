@@ -1,0 +1,14 @@
+.cari-mobil {
+  display: flex;
+  justify-content: center;
+  width: 1047px;
+  height: 106px;
+  background-color: aqua;
+
+  position: center;
+}
+
+.button-search {
+  display: flex;
+  align-items: center;
+}
