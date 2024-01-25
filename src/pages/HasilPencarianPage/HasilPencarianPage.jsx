@@ -1,4 +1,4 @@
-// import CardComponent from "../../components/CardComponents/CardComponent";
+import CardComponent from "../../components/CardComponents/CardComponent";
 import HeroComponent from "../../components/HeroComponents/HeroComponent";
 import SearchBarComponent from "../../components/SearchBarComponents/SearchBarComponent";
 
@@ -7,7 +7,7 @@ const HasilPencarianPage = () => {
     <>
       <HeroComponent tampilKonten={false} />
       <SearchBarComponent />
-      {/* <CardComponent /> */}
+      <CardComponent />
     </>
   );
 };

@@ -1,4 +1,4 @@
-import { Button, Card } from "react-bootstrap/Button";
+import { Button, Card } from "react-bootstrap";
 import { Container, Row, Col } from "react-bootstrap";
 
 const CardComponent = () => {
